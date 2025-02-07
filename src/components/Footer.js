@@ -4,8 +4,8 @@ import "./Footer.css"; // Import CSS for styling
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>Contact us: school@example.com | Phone: (123) 456-7890</p>
-      <p>© {new Date().getFullYear()} School Name. All rights reserved.</p>
+      <p>Contact : urrw.nm@urrw.ac.th | Phone: ยังไม่ใส่เลย </p>
+      <p>© {new Date().getFullYear()} โรงเรียนอุบลรัตนราชกัญญาราชวิทยาลัย นครราชสีมา rights reserved.</p>
     </footer>
   );
 };

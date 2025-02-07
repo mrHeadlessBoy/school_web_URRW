@@ -78,7 +78,7 @@ body {
   .btn-submit {
     width: 100%;
     padding: 12px;
-    background-color: #007bff;
+    background-color: #3493f8;
     color: white;
     border: none;
     border-radius: 5px;
@@ -88,7 +88,7 @@ body {
   }
   
   .btn-submit:hover {
-    background-color: #0056b3;
+    background-color: #0d82ff;
   }
   
   /* สไตล์ของปุ่ม radio */

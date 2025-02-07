@@ -7,10 +7,10 @@ const Home = () => {
 
   return (
     <div className="home-container">
-      <h1>Welcome to the School Website</h1>
+      <h1>แบบฟอร์มรักสมัครนักเรียน</h1>
       <div className="button-container">
-        <button onClick={() => navigate("/senior-register")}>Senior Registration</button>
-        <button onClick={() => navigate("/junior-register")}>Junior Registration</button>
+        <button onClick={() => navigate("/senior-register")}>รับสมัคร ม.ปลาย</button>
+        <button onClick={() => navigate("/junior-register")}>รับสมัคร ม.ต้น</button>
       </div>
     </div>
   );
